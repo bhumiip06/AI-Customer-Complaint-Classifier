@@ -1,0 +1,22 @@
+{
+  "model_name": "Linear SVM",
+  "macro_f1": 0.999785,
+  "categories": [
+    "ACCOUNT",
+    "CANCEL",
+    "CONTACT",
+    "DELIVERY",
+    "FEEDBACK",
+    "INVOICE",
+    "ORDER",
+    "PAYMENT",
+    "REFUND",
+    "SHIPPING",
+    "SUBSCRIPTION"
+  ],
+  "random_state": 42,
+  "test_size": 0.2,
+  "cv_folds": 5,
+  "training_rows": 19187,
+  "test_rows": 4797
+}
